@@ -10,3 +10,4 @@ Lets Start with creating new react applications:
 3. Application using axios.
 
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
