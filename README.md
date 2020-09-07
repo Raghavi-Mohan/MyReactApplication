@@ -1,11 +1,17 @@
 # MyReactApplication
-A Sample application that involves all concepts of React - #Self Learning
+A Sample application that involves concepts of React - #Self Learning
 
-Lets Start with creating new react application
+To start with I have created a small application that display weather forecast on the location searched.
+I have used openweathermap api to get the weather information on the location searched.
 
-1. Open cmd and navigate to the folder where we want our new application.
-command used - 'cd (desired path)' "cd Desktop"
+I have used inbuild fetch servie to do this api call.
+Later I will try to use axios for all my http calls.
 
-2. Create react application 
-command used - 'npx create-react-app my-app'
-It takes 5 - 10 mins to create this app
+
+React js self assesments tests,coding and quizes can be done here - skillvalue
+
+#MyReactAssesment - https://skillvalue.com/en/user/certificate/CZgiukaBINHfAWPZouqaO0KMDJQf4BLOwRywslAzCc5syz5SEmOXyHQs8k57
+
+
+
+
