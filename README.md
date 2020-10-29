@@ -12,6 +12,8 @@ React js self assesments tests,coding and quizes can be done here - skillvalue
 
 #MyReactAssesment - https://skillvalue.com/en/user/certificate/CZgiukaBINHfAWPZouqaO0KMDJQf4BLOwRywslAzCc5syz5SEmOXyHQs8k57
 
-![Image of Yaktocat](https://github.com/Raghavi-Mohan/MyReactApplication/blob/Raghavi-Mohan/WeatherForecast/logo.svg)
+Followin is the result obtained by executing my application.
+
+![Application Output](https://github.com/Raghavi-Mohan/MyReactApplication/blob/Raghavi-Mohan/WeatherForecast/webApplication.JPG)
 
 
