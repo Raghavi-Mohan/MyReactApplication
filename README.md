@@ -12,6 +12,6 @@ React js self assesments tests,coding and quizes can be done here - skillvalue
 
 #MyReactAssesment - https://skillvalue.com/en/user/certificate/CZgiukaBINHfAWPZouqaO0KMDJQf4BLOwRywslAzCc5syz5SEmOXyHQs8k57
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
